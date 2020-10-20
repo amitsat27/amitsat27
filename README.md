@@ -1,8 +1,6 @@
 ### Hey There!!, You Landed on Amits Github Profile 👋
 
 
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Django related projects.
 - 🕶 I’m currently exploring things based Machine Learning/Data Science
 - 🙂 I’m currently learning machine learning algorithms and django. 
