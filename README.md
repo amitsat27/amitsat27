@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://github.com/amitsat27">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amitsat27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitsat27&layout=compact&langs_count=5&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitsat27&layout=compact&hide=php&show=python&exclude_repo=E-Farmer-Project&theme=react"/>
 </a>
 </a>
 </p>
