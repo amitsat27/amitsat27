@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://github.com/amitsat27">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amitsat27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitsat27&layout=compact&hide=php&show=python&exclude_repo=E-Farmer-Project&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitsat27&layout=compact&lang-counts=5&exclude_repo=E-Farmer-Project&theme=react"/>
 </a>
 </a>
 </p>
@@ -61,6 +61,3 @@
 <a href="mailto:amitzope2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/></a>
 <a href="https://www.instagram.com/amit_zope_y2k/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"/></a>
 </p>
-
-
-
