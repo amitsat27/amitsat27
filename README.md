@@ -41,6 +41,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF9800?style=flat&logo=ubuntu&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau&logoColor=white)
+
 
 
 ### ⚙️ &nbsp;My Github Analytics
