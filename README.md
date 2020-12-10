@@ -1,6 +1,6 @@
 ![Amit Zope Landing Page](https://github.com/amitsat27/LPCC-CODE-GENERATION/blob/master/github.jpg)
 
-###  &nbsp; Hey There!!, You Landed on Amit's Github Profile 👋
+###  &nbsp; Hey There!! You Landed on Amit's Github Profile 👋
 
 #### 👨🏻‍💻 &nbsp;About ME 
 
