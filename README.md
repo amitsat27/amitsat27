@@ -7,9 +7,9 @@
 -  🙍‍♂️ Currently I am a Core Committee Member At [Coding Forum,VIIT](http://codingforum.web.app/).
 - 🎓 I’m currently pursuing my bachelor's degree in Computer Engineering at Vishwakarma Institute of Information Technology,Pune.
 - 🧐 I’m currently exploring things based on Machine Learning/Data Science and Web Development.
-- 🙂 I’m currently learning machine learning algorithms and django. 
+- 🙂 I’m currently learning machine learning algorithms. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for an internship in field of ML/AI,Django development or Python Devlopment.
+- 🤔 I’m looking for an internship in field of ML/AI,Python Devlopment.
 - 💬 Feel free to reach out to me for interesting discussions. 
 - 😄 Pronouns: he/him
 - ✉️ How to reach me : [amitzope2000@gmail.com](amitzope2000@gmail.com)
@@ -37,8 +37,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)
 ![Microsoft Tools](https://img.shields.io/badge/-Microsoft%20Tools-333333?style=flat&logo=microsoft&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)\
-![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FF9800?style=flat&logo=ubuntu&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau&logoColor=white)
