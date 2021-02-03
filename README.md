@@ -59,5 +59,5 @@
 <a href="https://github.com/amitsat27"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a>
 <a href="https://www.facebook.com/amit.zope.737/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a>
 <a href="mailto:amitzope2000@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/></a>
-<a href="https://www.instagram.com/amit_zope_y2k/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"/></a>
+<a href="https://www.instagram.com/amit_zope_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30"/></a>
 </p>
