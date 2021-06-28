@@ -7,7 +7,7 @@
 -  🙍‍♂️ Currently I am a Core Committee Member At [Coding Forum,VIIT](https://github.com/codingforum-viit).
 - 🎓 I’m currently pursuing my bachelor's degree in Computer Engineering at Vishwakarma Institute of Information Technology,Pune.
 - 🧐 I’m currently exploring things based on Machine Learning/Data Science and Web Development.
-- 🙂 I’m currently learning machine learning algorithms. 
+- 🙂 I’m currently learning concepts of core c++ programming and competetive programming. 
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for an internship in field of ML/AI,Python Devlopment.
 - 💬 Feel free to reach out to me for interesting discussions. 
