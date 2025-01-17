@@ -5,7 +5,7 @@
 - 💻 Currently Working as Member of Technical Staff II.
 - 🙍‍♂️ Been a Core Committee Member At [Coding Forum,VIIT](https://github.com/codingforum-viit).
 - 🎓 Pursued my bachelor's degree in Computer Engineering from Vishwakarma Institute of Information Technology,Pune.
-- 🧐 I’m currently exploring things in area related to System Domain/Unix/Operating Systems.
+- 🧐 I’m currently exploring things in area related to Cloud Computing/Unix/Operating Systems/DevOps.
 - 🙂 Would like to grasp concepts of core c++ programming and competetive programming. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Feel free to reach out to me for interesting discussions. 
