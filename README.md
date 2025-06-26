@@ -47,7 +47,6 @@
 
 <p align="center">
 <a href="https://github.com/amitsat27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsat27&show_icons=true&theme=react&layout=compact&include_all_commits=true&count_private=true" alt="My Github Statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsat27&exclude_repo=E-Farmer-Project&layout=compact&theme=react" alt="My Most Used Languages"/>
 </a>
 </a>
